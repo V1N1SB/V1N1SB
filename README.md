@@ -18,9 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vinib____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinib____" height="30" width="40" /></a>
-<a href="https://instagram.com/@vini_bassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@vini_bassan" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/v1n1sb](https://www.youtube.com/@V1N1SB)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="v1n1sb" height="30" width="40" /></a>
-<a href="https://discord.gg/vinib_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vinib_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vini_bassan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@vini_bassan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@V1N1SB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="v1n1sb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
