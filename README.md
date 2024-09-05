@@ -1,4 +1,4 @@
-<h1 align="center">Ooi 👋, Eu sou O Vinícius</h1>
+<h1 align="center">Ooi 👋, Eu sou o Vinícius</h1>
 <h3 align="center">Um estudante autônomo em programação</h3>
 
 - 🔭 Atualmente trabalho em projetinhos aleatórios 
