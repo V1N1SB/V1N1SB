@@ -1,5 +1,5 @@
 <h1 align="center">Ooi 👋, Eu sou o Vinícius</h1>
-<h3 align="center">Um estudante autônomo em programação</h3>
+<h3 align="center">Um caba que gosta de estudar programação</h3>
 
 - 🔭 Atualmente trabalho em projetinhos aleatórios 
 
