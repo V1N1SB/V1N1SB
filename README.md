@@ -13,8 +13,6 @@
 
 - 📄 Todas as minhas experiências até agora: 0 (muita coisa slc)
 
-- ⚡ Fato engraçado: **Eu sei assoviar enquanto chupo cana**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vinib____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinib____" height="30" width="40" /></a>
